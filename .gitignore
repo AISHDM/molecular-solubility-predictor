@@ -18,5 +18,3 @@ Thumbs.db
 
 # Data caches (keep raw CSV but skip large generated files)
 data/processed/
-results/*.png
-!results/.gitkeep
